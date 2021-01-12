@@ -1,4 +1,4 @@
-package com.lynda.course.sparkbda;
+package com.acrux.spraketlapp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
